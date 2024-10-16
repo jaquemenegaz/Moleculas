@@ -1,0 +1,12 @@
+[
+    {"name": "Hidrogenio", "symbol": "H", "valence": 1},
+    {"name": "Helio", "symbol": "He", "valence": 2},
+    {"name": "Lithium", "symbol": "Li", "valence": 1},
+    {"name": "Berilio", "symbol": "Be", "valence": 2},
+    {"name": "Boro", "symbol": "B", "valence": 3},
+    {"name": "Carbono", "symbol": "C", "valence": 4},
+    {"name": "Nitrogenio", "symbol": "N", "valence": 5},
+    {"name": "Oxigenio", "symbol": "O", "valence": 6},
+    {"name": "Fluor", "symbol": "F", "valence": 7},
+    {"name": "Neonio", "symbol": "Ne", "valence": 8}
+]
